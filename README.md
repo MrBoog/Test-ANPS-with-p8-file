@@ -1,4 +1,6 @@
-# Test-APNS-with-p8-file
+# iOS APNs with a Node.js backend
+
+The open source service: https://www.npmjs.com/package/apn
 
 First we need to initiate a new Node.js project and apn package for npm.
 
